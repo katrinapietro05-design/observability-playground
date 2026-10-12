@@ -1,0 +1,15 @@
+{
+  "event_id": "demo-0001",
+  "timestamp": "2026-01-01T00:00:00Z",
+  "component": "demo-component",
+  "event_type": "state_transition",
+  "prior_state": "idle",
+  "new_state": "review",
+  "source_class": "synthetic",
+  "severity": "info",
+  "correlation_id": "demo-session-01",
+  "integrity_hash": "example-only",
+  "retention_class": "demo",
+  "review_status": "unreviewed",
+  "note": "Illustrative fixture; not production telemetry."
+}
